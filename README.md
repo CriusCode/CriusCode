@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @CriusCode
+- 👀 I’m interested in crafting intuitive and dynamic web applications, exploring full-stack development, and contributing to open-source projects.
+- 💻​ Proficient in: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Tailwind.
+- [![Your Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,bootstrap,tailwind,react,nodejs&v=1)](https://skillicons.dev)
+- 🌱 I’m currently learning React to enhance my front-end development skills and exploring Node.js for backend development.
+- 💞️ I’m looking to collaborate on various projects involving e-commerce, real-time applications, and data visualization.
+- 📫 How to reach me :
+- * LinkedIn: https://www.linkedin.com/in/jean-thomas-muller-b21820194/
+- * Email: jeanthomas.muller2609@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a passion for everything that's nostalgic, and enjoy solving complex problems with simple solutions.
